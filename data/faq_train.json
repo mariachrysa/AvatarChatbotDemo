@@ -1,0 +1,398 @@
+[
+  {
+    "q": "What are the clinic hours?",
+    "a": "Outpatient clinic hours are Mon-Fri 08:00-17:00. Closed weekends and public holidays."
+  },
+  {
+    "q": "What time does the clinic open and close?",
+    "a": "Outpatient clinic hours are Mon-Fri 08:00-17:00. Closed weekends and public holidays."
+  },
+  {
+    "q": "Is the Emergency Department open 24/7?",
+    "a": "Yes. The Emergency Department is open 24/7 for urgent care."
+  },
+  {
+    "q": "Can I come to the ER at night?",
+    "a": "Yes. The Emergency Department is open 24/7 for urgent care."
+  },
+  {
+    "q": "How do I book a clinic appointment?",
+    "a": "Book via the Health Portal or call Clinic Reception at extension 3000."
+  },
+  {
+    "q": "Can I schedule a doctor visit online?",
+    "a": "Yes. Use the Health Portal or call Clinic Reception at extension 3000."
+  },
+  {
+    "q": "How do I cancel or reschedule my appointment?",
+    "a": "Cancel or reschedule via the Health Portal or call extension 3000 at least 24 hours in advance."
+  },
+  {
+    "q": "I am a new patient. How do I register?",
+    "a": "Complete the New Patient form in the Health Portal and bring photo ID and insurance card to your first visit."
+  },
+  {
+    "q": "What should I bring to my appointment?",
+    "a": "Bring photo ID, insurance card, a list of current medications, and any relevant medical reports."
+  },
+  {
+    "q": "How early should I arrive for my appointment?",
+    "a": "Please arrive 15 minutes early to allow time for check-in and paperwork."
+  },
+  {
+    "q": "Where is the Cardiology department?",
+    "a": "Cardiology is in Building B, Level 2. Follow the blue signs from the Main Lobby."
+  },
+  {
+    "q": "How do I get to Cardiology?",
+    "a": "Cardiology is in Building B, Level 2. Follow the blue signs from the Main Lobby."
+  },
+  {
+    "q": "Where is Radiology located?",
+    "a": "Radiology is in Building D, Ground Floor, beside the main elevators."
+  },
+  {
+    "q": "Where can I get an MRI?",
+    "a": "MRI is performed in Radiology (Building D, Ground Floor). Please check in at the Radiology desk."
+  },
+  {
+    "q": "Where is Pediatrics?",
+    "a": "Pediatrics is in Building C, Level 1. Follow the green signs."
+  },
+  {
+    "q": "Where is Orthopedics?",
+    "a": "Orthopedics is in Building B, Level 3."
+  },
+  {
+    "q": "Where is the Pharmacy?",
+    "a": "The on-site Pharmacy is in Building D, next to Radiology. Hours: Mon-Fri 09:00-17:30."
+  },
+  {
+    "q": "How do I refill a prescription?",
+    "a": "Request a refill through the Health Portal or ask your pharmacy to send an e-prescription. Allow up to 2 business days."
+  },
+  {
+    "q": "Can you send my prescription to an outside pharmacy?",
+    "a": "Yes. We support e-prescribing to your preferred pharmacy—provide the pharmacy name and location at check-in."
+  },
+  {
+    "q": "Do controlled substance refills require a visit?",
+    "a": "Yes. Controlled substances generally require an in-person evaluation per policy and local regulations."
+  },
+  {
+    "q": "Where is the Laboratory for blood tests?",
+    "a": "The Lab is in Building E, Level 1. Walk-in hours are Mon-Fri 07:30-16:30."
+  },
+  {
+    "q": "Do I need to fast for a blood test?",
+    "a": "Some tests require fasting for 8–12 hours. Drink water only unless your clinician advised otherwise."
+  },
+  {
+    "q": "How long until my lab results are ready?",
+    "a": "Most lab results are posted to the Health Portal within 2–3 business days. Your clinician will contact you if follow-up is needed."
+  },
+  {
+    "q": "Do I need a referral for MRI or CT?",
+    "a": "Most advanced imaging requires a clinician referral, and your insurer may require prior authorization."
+  },
+  {
+    "q": "How should I prepare for an abdominal ultrasound?",
+    "a": "Do not eat for 6 hours before the exam. You may drink small sips of water and take essential medications."
+  },
+  {
+    "q": "Can I bring previous imaging from another hospital?",
+    "a": "Yes. Please bring prior images on CD/USB or provide the facility details so we can request them."
+  },
+  {
+    "q": "Which insurance plans are accepted?",
+    "a": "We accept most major public and private insurance plans. Bring your insurance card to each visit."
+  },
+  {
+    "q": "Do I have to pay a copay?",
+    "a": "If your plan requires a copay, it is collected at check-in. Amounts vary—check your insurance card."
+  },
+  {
+    "q": "Where is the Billing Office?",
+    "a": "Billing is in Building A, Room 210. Hours: Mon-Fri 09:00-16:30."
+  },
+  {
+    "q": "How can I get a cost estimate?",
+    "a": "Contact the Billing Office (Building A, Room 210) or submit a request via the Billing section of the Health Portal."
+  },
+  {
+    "q": "How can I request my medical records?",
+    "a": "Submit a request via the Medical Records page in the Health Portal or visit Building A, Room 115 with photo ID. Processing takes 3–5 business days."
+  },
+  {
+    "q": "Where is Medical Records located?",
+    "a": "Medical Records is in Building A, Room 115. Hours: Mon-Fri 09:00-17:00."
+  },
+  {
+    "q": "Where can visitors park?",
+    "a": "Visitors should use Parking Lot P1 near the Main Gate."
+  },
+  {
+    "q": "Do you offer parking validation?",
+    "a": "Yes. Clinic visits qualify for parking validation up to 2 hours. Validate at the clinic reception desk."
+  },
+  {
+    "q": "Is there a campus shuttle to the hospital?",
+    "a": "Yes. The shuttle runs Mon-Fri 07:00-19:00 every 15 minutes between the Main Gate and the Hospital Entrance."
+  },
+  {
+    "q": "Are wheelchairs available at the hospital entrance?",
+    "a": "Yes. Wheelchairs are available at the Main Lobby—ask the Security Desk or a volunteer."
+  },
+  {
+    "q": "Do you provide interpreter services?",
+    "a": "Yes. Professional interpreters are available at no cost. Please request at least 48 hours in advance via the Health Portal or call extension 3000."
+  },
+  {
+    "q": "How can I arrange accessibility accommodations?",
+    "a": "Contact Accessibility Services in Building A, Room 120, or note your needs in the Health Portal before your visit."
+  },
+  {
+    "q": "What are visiting hours for inpatients?",
+    "a": "General ward visiting hours are 10:00-20:00. Children must be supervised by an adult."
+  },
+  {
+    "q": "What are ICU visiting hours?",
+    "a": "ICU visiting is 12:00-14:00 and 18:00-19:00. Limit two visitors at a time; check with staff for exceptions."
+  },
+  {
+    "q": "Do you offer flu shots?",
+    "a": "Yes. Seasonal flu vaccines are offered Sep-Mar on Tue and Thu, 10:00-16:00, at the Immunization Clinic (Building E, Ground Entrance)."
+  },
+  {
+    "q": "Where can I get a COVID-19 test?",
+    "a": "Testing is by appointment at the Testing Center, Building E (outside entrance). Book via the Health Portal."
+  },
+  {
+    "q": "How do I contact Clinic Reception?",
+    "a": "Call extension 3000 or message us through the Health Portal."
+  },
+  {
+    "q": "Is there a nurse advice line?",
+    "a": "Yes. Call extension 3010 Mon-Fri 08:00-17:00 for non-emergency clinical advice."
+  },
+  {
+    "q": "What is the emergency number?",
+    "a": "Dial 112 for emergencies. On campus, you can also reach Security at extension 2222."
+  },
+  {
+    "q": "Do I need to wear a mask in the hospital?",
+    "a": "Masks are required in Oncology and during posted respiratory precautions. Elsewhere they are optional unless signage says otherwise."
+  },
+  {
+    "q": "Are service animals allowed?",
+    "a": "Yes. Service animals are welcome. Pets are not permitted except for approved therapy programs."
+  },
+  {
+    "q": "Where is Lost and Found?",
+    "a": "Lost and Found is at the Security Desk in the Main Lobby."
+  },
+  {
+    "q": "How can I submit feedback or a complaint?",
+    "a": "Contact the Patient Experience Office (Building A, Room 108) or use the Feedback form in the Health Portal. We respond within 5 business days."
+  },
+  {
+    "q": "How do I request a medical certificate or doctor's note?",
+    "a": "Ask at Clinic Reception or via the Health Portal. Processing typically takes 2 business days."
+  },
+  {
+    "q": "Do you host blood donation drives?",
+    "a": "Yes. A blood donation drive is held on the first Wednesday of each month, 09:00-14:00, in the Auditorium (Building F)."
+  },
+  {
+    "q": "When are outpatient clinics open during the week?",
+    "a": "Outpatient clinic hours are Mon-Fri 08:00-17:00. Closed weekends and public holidays."
+  },
+  {
+    "q": "Is the ER open all day and night?",
+    "a": "Yes. The Emergency Department is open 24/7 for urgent care."
+  },
+  {
+    "q": "How do I make an appointment online or by phone?",
+    "a": "Book via the Health Portal or call Clinic Reception at extension 3000."
+  },
+  {
+    "q": "How can I change or cancel my appointment?",
+    "a": "Cancel or reschedule via the Health Portal or call extension 3000 at least 24 hours in advance."
+  },
+  {
+    "q": "Directions to Cardiology from the main lobby?",
+    "a": "Cardiology is in Building B, Level 2. Follow the blue signs from the Main Lobby."
+  },
+  {
+    "q": "Which building houses Radiology?",
+    "a": "Radiology is in Building D, Ground Floor, beside the main elevators."
+  },
+  {
+    "q": "Where is the hospital pharmacy and what are its hours?",
+    "a": "The on-site Pharmacy is in Building D, next to Radiology. Hours: Mon-Fri 09:00-17:30."
+  },
+  {
+    "q": "Where do I go for blood tests and what are the times?",
+    "a": "The Lab is in Building E, Level 1. Walk-in hours are Mon-Fri 07:30-16:30."
+  },
+  {
+    "q": "Do you accept most insurance plans?",
+    "a": "We accept most major public and private insurance plans. Bring your insurance card to each visit."
+  },
+  {
+    "q": "Where is Billing located and when is it open?",
+    "a": "Billing is in Building A, Room 210. Hours: Mon-Fri 09:00-16:30."
+  },
+  {
+    "q": "How do I request copies of my medical records?",
+    "a": "Submit a request via the Medical Records page in the Health Portal or visit Building A, Room 115 with photo ID. Processing takes 3–5 business days."
+  },
+  {
+    "q": "When can visitors come to the general wards?",
+    "a": "General ward visiting hours are 10:00-20:00. Children must be supervised by an adult."
+  },
+  {
+    "q": "What are the ICU visiting times today?",
+    "a": "ICU visiting is 12:00-14:00 and 18:00-19:00. Limit two visitors at a time; check with staff for exceptions."
+  },
+  {
+    "q": "When and where can I get a flu vaccine?",
+    "a": "Yes. Seasonal flu vaccines are offered Sep-Mar on Tue and Thu, 10:00-16:00, at the Immunization Clinic (Building E, Ground Entrance)."
+  },
+  {
+    "q": "How do I book a COVID test at the hospital?",
+    "a": "Testing is by appointment at the Testing Center, Building E (outside entrance). Book via the Health Portal."
+  },
+  {
+    "q": "What number should I call to reach Reception?",
+    "a": "Call extension 3000 or message us through the Health Portal."
+  },
+  {
+    "q": "Is there a nurse helpline for non-urgent questions?",
+    "a": "Yes. Call extension 3010 Mon-Fri 08:00-17:00 for non-emergency clinical advice."
+  },
+  {
+    "q": "What number do I dial for emergencies on campus?",
+    "a": "Dial 112 for emergencies. On campus, you can also reach Security at extension 2222."
+  },
+  {
+    "q": "Do I have to wear a mask anywhere inside?",
+    "a": "Masks are required in Oncology and during posted respiratory precautions. Elsewhere they are optional unless signage says otherwise."
+  },
+  {
+    "q": "How can I send feedback or a complaint about my visit?",
+    "a": "Contact the Patient Experience Office (Building A, Room 108) or use the Feedback form in the Health Portal. We respond within 5 business days."
+  },
+  {
+    "q": "Can I book a visit through the Health Portal or by calling extension 3000?",
+    "a": "Yes. Use the Health Portal or call Clinic Reception at extension 3000."
+  },
+  {
+    "q": "I’m a new patient—where do I register before my first visit?",
+    "a": "Complete the New Patient form in the Health Portal and bring photo ID and insurance card to your first visit."
+  },
+  {
+    "q": "What documents should I bring to my consultation?",
+    "a": "Bring photo ID, insurance card, a list of current medications, and any relevant medical reports."
+  },
+  {
+    "q": "How early should I arrive ahead of my appointment time?",
+    "a": "Please arrive 15 minutes early to allow time for check-in and paperwork."
+  },
+  {
+    "q": "Where do I check in for MRI scans in the hospital?",
+    "a": "MRI is performed in Radiology (Building D, Ground Floor). Please check in at the Radiology desk."
+  },
+  {
+    "q": "Which building and floor is Pediatrics located on?",
+    "a": "Pediatrics is in Building C, Level 1. Follow the green signs."
+  },
+  {
+    "q": "Where can I find the Orthopedics department?",
+    "a": "Orthopedics is in Building B, Level 3."
+  },
+  {
+    "q": "What’s the process to request a medication refill?",
+    "a": "Request a refill through the Health Portal or ask your pharmacy to send an e-prescription. Allow up to 2 business days."
+  },
+  {
+    "q": "Can you e-prescribe to my preferred pharmacy if I provide the details?",
+    "a": "Yes. We support e-prescribing to your preferred pharmacy—provide the pharmacy name and location at check-in."
+  },
+  {
+    "q": "Do refills for controlled medicines require an in-person visit?",
+    "a": "Yes. Controlled substances generally require an in-person evaluation per policy and local regulations."
+  },
+  {
+    "q": "Do I need to fast for my blood test, and for how many hours?",
+    "a": "Some tests require fasting for 8–12 hours. Drink water only unless your clinician advised otherwise."
+  },
+  {
+    "q": "How long do lab results take to appear in the Health Portal?",
+    "a": "Most lab results are posted to the Health Portal within 2–3 business days. Your clinician will contact you if follow-up is needed."
+  },
+  {
+    "q": "Do I need a referral or prior authorization for CT or MRI?",
+    "a": "Most advanced imaging requires a clinician referral, and your insurer may require prior authorization."
+  },
+  {
+    "q": "What’s the prep for an abdominal ultrasound—do I need to avoid food?",
+    "a": "Do not eat for 6 hours before the exam. You may drink small sips of water and take essential medications."
+  },
+  {
+    "q": "Can I bring previous scans on USB, or can the hospital request them?",
+    "a": "Yes. Please bring prior images on CD/USB or provide the facility details so we can request them."
+  },
+  {
+    "q": "Will I need to pay a copay at check-in, and how is it determined?",
+    "a": "If your plan requires a copay, it is collected at check-in. Amounts vary—check your insurance card."
+  },
+  {
+    "q": "How do I request a price estimate from the Billing Office?",
+    "a": "Contact the Billing Office (Building A, Room 210) or submit a request via the Billing section of the Health Portal."
+  },
+  {
+    "q": "Where exactly is Medical Records and what are the hours?",
+    "a": "Medical Records is in Building A, Room 115. Hours: Mon-Fri 09:00-17:00."
+  },
+  {
+    "q": "Where should hospital visitors park their cars?",
+    "a": "Visitors should use Parking Lot P1 near the Main Gate."
+  },
+  {
+    "q": "Do you validate parking for clinic appointments, and for how long?",
+    "a": "Yes. Clinic visits qualify for parking validation up to 2 hours. Validate at the clinic reception desk."
+  },
+  {
+    "q": "Is there a weekday shuttle from the Main Gate to the Hospital Entrance?",
+    "a": "Yes. The shuttle runs Mon-Fri 07:00-19:00 every 15 minutes between the Main Gate and the Hospital Entrance."
+  },
+  {
+    "q": "Are wheelchairs available in the Main Lobby if I need one?",
+    "a": "Yes. Wheelchairs are available at the Main Lobby—ask the Security Desk or a volunteer."
+  },
+  {
+    "q": "Can I request an interpreter and how do I arrange it?",
+    "a": "Yes. Professional interpreters are available at no cost. Please request at least 48 hours in advance via the Health Portal or call extension 3000."
+  },
+  {
+    "q": "Who should I contact to arrange accessibility accommodations for my visit?",
+    "a": "Contact Accessibility Services in Building A, Room 120, or note your needs in the Health Portal before your visit."
+  },
+  {
+    "q": "Are service animals permitted in hospital areas?",
+    "a": "Yes. Service animals are welcome. Pets are not permitted except for approved therapy programs."
+  },
+  {
+    "q": "Where is Lost & Found located in the hospital?",
+    "a": "Lost and Found is at the Security Desk in the Main Lobby."
+  },
+  {
+    "q": "How can I request a doctor’s note or medical certificate?",
+    "a": "Ask at Clinic Reception or via the Health Portal. Processing typically takes 2 business days."
+  },
+  {
+    "q": "When and where are the regular blood donation drives held?",
+    "a": "Yes. A blood donation drive is held on the first Wednesday of each month, 09:00-14:00, in the Auditorium (Building F)."
+  }
+]
